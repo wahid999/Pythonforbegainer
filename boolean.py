@@ -14,6 +14,7 @@ os.system('clear')
 #************** Boolean ****************
 
 # It is show the true and false statments
+# basically used in conditional statments
 
 
 
