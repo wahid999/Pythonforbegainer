@@ -26,4 +26,6 @@ fav_pizza = {
 }						# Dictionary
 
 
-print (fav_pizza["Wahid"])	#we call a key to find the fav of each person
+fav_pizza["Wahid"] = "Burger"
+
+print (fav_pizza)	#we call a key to find the fav of each person

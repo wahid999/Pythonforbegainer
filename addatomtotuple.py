@@ -4,5 +4,7 @@ os.system('clear')
 #************** Tuples ****************
 #------------->-------->
 
-name = ('Wahid', 'Hussain', 'Turi')
-print (name[3])
+tuple1 = ('Wahid', 'Hussain', 'Turi')
+tuple2 = ('Khan',)
+tuple3 = tuple1 + tuple2
+print (tuple3)
